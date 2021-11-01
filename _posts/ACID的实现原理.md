@@ -1,4 +1,12 @@
-##  ACID的实现原理
+---
+layout: post
+title:  "ACID的实现原理"
+categories: MySQL
+tags: 面试,MVCC,ACID
+author: 宁作我
+---
+
+[TOC]
 
 ## 引言
 
