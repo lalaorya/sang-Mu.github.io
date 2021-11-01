@@ -13,11 +13,10 @@ type: page
 
 
 
-- Email: zhangchenghui.dev@gmail.com
-- GitHub: [objcoding]( https://github.com/objcoding/)
+- Email: sangmu.hhj@gmail.com
+- GitHub: [objcoding]( https://github.com/sang_Mu/)
 
 
-- 微信公众号「后端进阶」，专注后端技术分享：Java、Golang、WEB框架、分布式中间件、服务治理等等，老司机倾囊相授，带你一路进阶，来不及解释了快上车！
-
+- 后端开发、在校学生、一个不太聪明的程序员
 
 
