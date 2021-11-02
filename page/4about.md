@@ -10,13 +10,6 @@ type: page
 {:toc}
 
 
-
-
-
 - Email: sangmu.hhj@gmail.com
 - GitHub: [objcoding]( https://github.com/sang_Mu/)
-
-
-- 后端开发、在校学生、一个不太聪明的程序员
-
-
+- 后端开发 二次元 一个在努力学习算法的程序员
