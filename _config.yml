@@ -32,14 +32,14 @@ duoshuo_shortname: #zchblog
 disqus_shortname: #zch
 
 # Gitalk
-#gitalk: 
-#  enable: true    #用来做启用判断可以不用
-#  clientID: 761d4cebe16b95a29801
-#  clientSecret: 35adf9ec70f6b4a11356da6b076565e7ef630681
-#  repo: blog-comments    #仓库名称
-#  owner: objcoding    #github用户名
-#  admin: objcoding
-#  distractionFreeMode: true
+gitalk: 
+ enable: true    #用来做启用判断可以不用
+ clientID: 155a18df140c6beae00b
+ clientSecret: 1b13291b69383020ba50a4f29549e68a619e55ce
+ repo: sang-Mu.github.io    #仓库名称
+ owner: sang-Mu  #github用户名
+ admin: sang-Mu
+ distractionFreeMode: true
 
 
 # statistic analysis 统计代码
