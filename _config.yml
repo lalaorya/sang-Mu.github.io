@@ -6,8 +6,8 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: 码头工人的博客
-brief-intro: 我与我周旋 宁作我
+title: 码头工人
+brief-intro: 既然选择了远方 便只顾风雨兼程
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://sang-mu.github.io/category/"  # the base hostname & protocol for your site
 
