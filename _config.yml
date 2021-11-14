@@ -1,4 +1,4 @@
-﻿# Welcome to Jekyll!
+# Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
 # which you are expected to set up once and rarely need to edit after that.
@@ -6,7 +6,7 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: 宁作我
+title: 码头工人的博客
 brief-intro: 我与我周旋 宁作我
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://sang-mu.github.io/category/"  # the base hostname & protocol for your site
