@@ -34,9 +34,9 @@ disqus_shortname: #zch
 # Gitalk
 gitalk: 
  enable: true    #用来做启用判断可以不用
- clientID: 155a18df140c6beae00b
- clientSecret: 1b13291b69383020ba50a4f29549e68a619e55ce
- repo: sang-Mu.github.io    #仓库名称
+ clientID: 313e751b0251395283a1
+ clientSecret: 7bca6ed6cb18a2a5ca47fb205ae34819e67a971c
+ repo: blog-comment    #仓库名称
  owner: sang-Mu  #github用户名
  admin: sang-Mu
  distractionFreeMode: true
